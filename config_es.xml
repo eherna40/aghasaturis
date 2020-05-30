@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>aghasaturis</name>
+    <displayName><![CDATA[aghasaturis]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Caracter&iacute;sticas aghasaturis]]></description>
+    <author><![CDATA[LabelGrup Networks]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
